@@ -19,7 +19,7 @@ Fontes:<br />
 * ![Primeiros Passos](https://www.ruby-lang.org/pt/documentation/)<br />
 * ![Ruby-lang](https://www.ruby-lang.org/pt/documentation/)<br />
 * ![Ruby em Vinte Minutos](https://www.ruby-lang.org/pt/documentation/quickstart/)<br />
-* <a href="https://www.youtube.com/channel/UCwf9gicXucOZrWT8s7mm6ZQ"><br />
+* [![Jackson Pires](http://www.youtube.com/watch?v=ZHPondVB9RQ)]
 * ![API Publica - CEP](https://viacep.com.br/ws/88051431/json)<br />
 * Entre outros links que se perderam em pesquisas rapidas...<br />
 
