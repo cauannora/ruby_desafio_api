@@ -16,7 +16,12 @@ class ClientesController < ApplicationController
   # POST /clientes
   def create
     @cliente = Cliente.new(cliente_params)
-
+    cep = @cliente.cep
+    reponse_json = JSON.parse(Net::HTTP.get_response('viacep.com.br',"/ws/#{cep}/json").body)
+    @cliente.logradouro = reponse_json["logradouro"]
+    @cliente.bairro = reponse_json["bairro"]
+    @cliente.localidade = reponse_json["localidade"]
+    @cliente.uf = reponse_json["uf"]
     if @cliente.save
       render json: @cliente, status: :created, location: @cliente
     else
@@ -48,4 +53,7 @@ class ClientesController < ApplicationController
     def cliente_params
       params.require(:cliente).permit(:nome, :email, :cep, :logradouro, :bairro, :localidade, :uf)
     end
+  def cliente_params_api
+    params.require(:cliente).permit(:nome, :email, :cep)
+  end
 end
