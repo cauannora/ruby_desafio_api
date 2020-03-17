@@ -19,6 +19,8 @@ Fontes: * ![Primeiros Passos](https://www.ruby-lang.org/pt/documentation/)<br />
         * ![Ruby-lang](https://www.ruby-lang.org/pt/documentation/)<br />
         * ![Ruby em Vinte Minutos](https://www.ruby-lang.org/pt/documentation/quickstart/)<br />
         * ![Jackson Pires](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP&index=1)<br />
+        * ![API Publica - CEP](https://viacep.com.br/ws/88051431/json)
+        * Entre outros links que se perderam em pesquisas rapidas...
 
 **Ruby versão:** ruby 2.6.5p114 (2019-10-01 revision 67812) [x64-mingw32]<br />
 **Gem versão:** 3.0.3<br />
