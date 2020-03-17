@@ -15,6 +15,14 @@ Premissas:
 * Frontend e páginas com formulários são opcionais, pode entregar somente o backend.
 ## Recursos usado para fazer API
 
+**IDE ultilizado:** RubyMine - JetBrains
+**S.O.:** Windows 10 pro
+**Ruby versão:** ruby 2.6.5p114 (2019-10-01 revision 67812) [x64-mingw32]<br />
+**Gem versão:** 3.0.3<br />
+**Rails versão:** Rails 6.0.2.1<br />
+**MariaDB versão:** 10.4<br />
+**Postman:** v7.20.1<br />
+
 Fontes:<br />
 * [Primeiros Passos](https://www.ruby-lang.org/pt/documentation/)<br />
 * [Ruby-lang](https://www.ruby-lang.org/pt/documentation/)<br />
@@ -23,6 +31,3 @@ Fontes:<br />
 * [API Publica - CEP](https://viacep.com.br/ws/88051431/json)<br />
 * Entre outros links que se perderam em pesquisas rapidas...<br />
 
-**Ruby versão:** ruby 2.6.5p114 (2019-10-01 revision 67812) [x64-mingw32]<br />
-**Gem versão:** 3.0.3<br />
-**Rails versão:** Rails 6.0.2.1<br />
