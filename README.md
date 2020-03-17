@@ -15,17 +15,11 @@ Premissas:
 * Frontend e páginas com formulários são opcionais, pode entregar somente o backend.
 ## Recursos usado para fazer API
 
-Fontes: * ![Primeiros Passos](https://www.ruby-lang.org/pt/documentation/)
+Fontes: * ![Primeiros Passos](https://www.ruby-lang.org/pt/documentation/)<br />
+        * ![Ruby-lang](https://www.ruby-lang.org/pt/documentation/)<br />
+        * ![Ruby em Vinte Minutos](https://www.ruby-lang.org/pt/documentation/quickstart/)<br />
+        * ![Jackson Pires](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP&index=1)<br />
 
-
-        * ![Ruby-lang](https://www.ruby-lang.org/pt/documentation/)
-
-
-        * ![Ruby em Vinte Minutos](https://www.ruby-lang.org/pt/documentation/quickstart/)
-        
-        
-        * ![Jackson Pires](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP&index=1)
-
-**Ruby versão:** ruby 2.6.5p114 (2019-10-01 revision 67812) [x64-mingw32]
-**Gem versão:** 3.0.3
-**Rails versão:** Rails 6.0.2.1
+**Ruby versão:** ruby 2.6.5p114 (2019-10-01 revision 67812) [x64-mingw32]<br />
+**Gem versão:** 3.0.3<br />
+**Rails versão:** Rails 6.0.2.1<br />
