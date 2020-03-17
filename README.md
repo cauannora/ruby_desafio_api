@@ -16,11 +16,11 @@ Premissas:
 ## Recursos usado para fazer API
 
 Fontes:<br />
-* ![Primeiros Passos](https://www.ruby-lang.org/pt/documentation/)<br />
-* ![Ruby-lang](https://www.ruby-lang.org/pt/documentation/)<br />
-* ![Ruby em Vinte Minutos](https://www.ruby-lang.org/pt/documentation/quickstart/)<br />
-* ![Jackson Pires](http://www.youtube.com/watch?v=ZHPondVB9RQ)
-* ![API Publica - CEP](https://viacep.com.br/ws/88051431/json)<br />
+* [Primeiros Passos](https://www.ruby-lang.org/pt/documentation/)<br />
+* [Ruby-lang](https://www.ruby-lang.org/pt/documentation/)<br />
+* [Ruby em Vinte Minutos](https://www.ruby-lang.org/pt/documentation/quickstart/)<br />
+* [Jackson Pires](http://www.youtube.com/watch?v=ZHPondVB9RQ)
+* [API Publica - CEP](https://viacep.com.br/ws/88051431/json)<br />
 * Entre outros links que se perderam em pesquisas rapidas...<br />
 
 **Ruby versão:** ruby 2.6.5p114 (2019-10-01 revision 67812) [x64-mingw32]<br />
